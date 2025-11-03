@@ -1,9 +1,10 @@
-
+import random
 
 print("Welcome to the Number Guessing Game!")
 print("I'm thinking of a number between 1 to 100.")
 
-sceret_number = 42  
+sceret_number = random.randint(1, 100)
+
 for i in range(1,8):
     try:
         user_input = int(input("make a guess number :"))
