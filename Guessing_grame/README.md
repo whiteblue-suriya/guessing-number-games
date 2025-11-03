@@ -11,6 +11,7 @@ How to run:
 1. Open `Guessing_grame/web/index.html` in your browser (double-click or drag to a browser).
 2. Or serve the folder with a simple HTTP server (recommended when using fetch or modules):
 
+SIMPLE UI DESGIN
 <img width="623" height="543" alt="image" src="https://github.com/user-attachments/assets/a9eb494c-fa0a-42aa-b605-60bc794c18ae" />
 
 Notes:
